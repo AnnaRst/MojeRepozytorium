@@ -1,4 +1,2 @@
 # MojeRepozytorium
-# MojeRepozytorium
-# MojeRepozytorium
-# MojeRepozytorium
+Abcd
