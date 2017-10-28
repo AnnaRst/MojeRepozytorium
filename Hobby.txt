@@ -1,4 +1,4 @@
-1. Co to baza danych?
+1. Gitara
 2. Relacyjne bazy danych – elementy charakterystyczne
 3. MS SQL Server – krótkie wprowadzenie
 4. Podstawowe struktury
